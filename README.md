@@ -10,11 +10,11 @@
 
 ## 项目特色
 
-* ✅ 支持 **本地上传** ArcFace / Antelope / Parsing / 512 等全部模型，也可以通过云盘挂载
-* ✅ 自动解压和目录修复，避免路径异常
-* ✅ 一键校验模型加载状态，自动识别图像+视频
-* ✅ 自动解决 PyTorch 2.6+ 与 NumPy 1.24+ 的兼容性问题
-* ✅ 自动下载最新换脱视频结果
+* 支持 **本地上传** ArcFace / Antelope / Parsing / 512 等全部模型，也可以通过云盘挂载
+* 自动解压和目录修复，避免路径异常
+* 一键校验模型加载状态，自动识别图像+视频
+* 自动解决 PyTorch 2.6+ 与 NumPy 1.24+ 的兼容性问题
+* 自动下载最新换脱视频结果
 
 ## 📃 文件的结构
 
@@ -48,9 +48,3 @@ SimSwap/
 * 所有模型都支持本地上传，无需 Google Drive（也有相应的代码支持 Google Drive ）
 * 上传视频需包含角色头像 + 视频，格式支持 JPG/PNG + MP4
 * 只支持查找 zip 文件解压后的第一张图 + 第一个视频
-
-## 频道和观看
-
-* 原始项目：[https://github.com/neuralchen/SimSwap](https://github.com/neuralchen/SimSwap)
-* 视频演示：查看 YouTube / Bilibili 上的相关换脱演示
-* 供作：用于积木之木 AI 竞赛优化支持
