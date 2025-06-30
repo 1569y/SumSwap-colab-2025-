@@ -35,7 +35,6 @@ SimSwap/
 1. 执行前 3 步，完成环境部署
 2. 下载相应的预训练模型：
    - 原作者的准备指导: https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md
-   - [arcface_checkpoint.tar] https://pan.baidu.com/s/1wFV11RVZMHqd-ky4YpLdcA?from=init#list/path=%2Fsharelink1765138622-735298427902629%2FCheckpoint&parentPath=%2Fsharelink1765138622-735298427902629
    - [antelope.zip] https://gitcode.com/Universal-Tool/f6dce/?utm_source=article_gitcode_universal&index=top&type=card&&isLogin=1
 3. 按顺序上传模型文件：
    * `arcface_checkpoint.tar`
