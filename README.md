@@ -2,6 +2,8 @@
 针对SimSwap源代码
 > 这是一个面向 Colab 环境进行自动化运行的 SimSwap 视频换脸项目。
 该项目来源于开源项目 [SimSwap](https://github.com/neuralchen/SimSwap)，针对其中的colab进行一些优化（兼容 PyTorch 新版本的代码补丁等），实现 Colab 环境下的完整部署、本地文件上传支持、自动处理兼容性问题以及视频换脸结果下载的全链路流程。
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/1569y/SumSwap-colab-2025-/blob/main/main.ipynb)
 
 ## 原项目链接
 
